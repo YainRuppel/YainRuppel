@@ -1,16 +1,25 @@
-## Hi there 👋
+👋 Hola, soy Yain Omar Ruppel
 
-<!--
-**YainRuppel/YainRuppel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Licenciado en Gestión de Tecnología Informática**  
+💻 Con experiencia en **C# .NET** y **Python**, actualmente interesado en aprender y desarrollar dentro del ecosistema **Blockchain y Ethereum**.  
+🌐 Mi objetivo es adquirir experiencia práctica en programación de contratos inteligentes y aplicaciones descentralizadas (**dApps**), para luego aplicar este conocimiento en proyectos reales.  
+---
+## 🚀 Tecnologías y herramientas
+### Experiencia
+- C# .NET  
+- Python  
 
-Here are some ideas to get you started:
+### En aprendizaje
+- Solidity  
+-FastApi 
+- Git y GitHub  
+---
+## 📌 Objetivos en Web3
+- Comprender los fundamentos de los contratos inteligentes.  
+- Desarrollar y desplegar proyectos en testnets.  
+- Contribuir a proyectos de la comunidad Web3.  
+- Construir un portafolio sólido de aplicaciones descentralizadas.  
+---
+## 🌐 Conectemos
+- [LinkedIn](https://www.linkedin.com/in/yain-omar-ruppel-3b0680231/)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
