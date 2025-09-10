@@ -14,12 +14,6 @@
 -FastApi 
 - Git y GitHub  
 ---
-## 📌 Objetivos en Web3
-- Comprender los fundamentos de los contratos inteligentes.  
-- Desarrollar y desplegar proyectos en testnets.  
-- Contribuir a proyectos de la comunidad Web3.  
-- Construir un portafolio sólido de aplicaciones descentralizadas.  
----
 ## 🌐 Conectemos
 - [LinkedIn](https://www.linkedin.com/in/yain-omar-ruppel-3b0680231/)  
 
